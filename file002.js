@@ -1,2 +1,2 @@
-txt="Texto em js"
+let txt="Texto em js"
 console.log(txt)
