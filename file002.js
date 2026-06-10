@@ -1,2 +1,2 @@
 txt="Texto em js"
-print(txt)
+console.log(txt)
