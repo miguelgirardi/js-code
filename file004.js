@@ -1,2 +1,2 @@
-let booleanexample=true
+let booleanexample = true
 console.log("Verdadeiro: " + booleanexample)
