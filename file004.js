@@ -1,2 +1,2 @@
-let booleanexample = true
-console.log("Verdadeiro: " + booleanexample)
+let vouf = true
+console.log("Verdadeiro: " + vouf)
